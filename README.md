@@ -1,4 +1,4 @@
-# *Simple Wordle*
+# Simple Wordle
 
 **Peilin Chen**
 
